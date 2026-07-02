@@ -1,14 +1,14 @@
-# BNP Paribas — AI-Driven Synthetic Persona Simulator
+# BNP Paribas: AI-Driven Synthetic Persona Simulator
 
 **Tools:** Python · Streamlit · Azure Prompt Flow · Azure OpenAI (GPT-4) · Azure ML Studio  
-**Context:** MSc Data Analytics for Business — KEDGE Business School Hackathon (2025)  
+**Context:** MSc Data Analytics for Business, KEDGE Business School Hackathon (2025)  
 **Team:** Vigneshwari Nalla · Ekta Sharma · Nicolas Vavassori · Juan Sebastian Salamanca Melo · Obinna Chukwu
 
 ---
 
 ## Overview
 
-A full-stack AI application that generates synthetic customer personas for BNP Paribas Personal Finance. The system allows bank analysts to simulate conversations with realistic AI-driven customer profiles — enabling faster, cheaper market research without relying on real customer data.
+A full-stack AI application that generates synthetic customer personas for BNP Paribas Personal Finance. The system allows bank analysts to simulate conversations with realistic AI-driven customer profiles, enabling faster, cheaper market research without relying on real customer data.
 
 **Business problem:** Real consumer panels are costly, slow to build, and often incomplete. Banks need a way to simulate customer behavior before launching financial products.
 
@@ -79,7 +79,7 @@ Azure Prompt Flow (Multi-node cognitive architecture)
 
 Every persona response is scored across two audits:
 
-**Alignment Audit** — Is the response coherent with the persona?
+**Alignment Audit:** Is the response coherent with the persona?
 - Voice & Tone Consistency
 - Economic/Situational Grounding
 - Motivational Coherence
@@ -87,7 +87,7 @@ Every persona response is scored across two audits:
 - Absence of LLM Bias
 - Contextual Specificity
 
-**Integrity Audit** — Does it sound genuinely human?
+**Integrity Audit:** Does it sound genuinely human?
 - Confidence score (0–1)
 - Behavioral Red Flags
 - Human Truth Synthesis
@@ -133,5 +133,5 @@ streamlit run app.py
 
 ## About
 
-**Vigneshwari Nalla** — MSc Data Analytics for Business, KEDGE Business School  
-[LinkedIn](https://linkedin.com/in/vigna24) · [Portfolio](https://vigna2408.github.io)
+**Vigneshwari Nalla**, MSc Data Analytics for Business, KEDGE Business School  
+[LinkedIn](https://linkedin.com/in/vigna24) · [Portfolio](https://vigneshwari2408.github.io/vigneshwari-portfolio/)
